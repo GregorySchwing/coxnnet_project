@@ -10,10 +10,34 @@ ________________________________________
 
 St Jude =   1660 GB, 378 Files, 175 Subjects
     ---Requires data access form
+______
 
-HERBY   =   
 
-CBTTC   =   XXXX,   XXXXXX,     906 Subjects
+HERBY   =   EMBL, 322.60 GB, 20 subjects
+    ---Requires data access form
+https://ega-archive.org/datasets/EGAD00001004070
 
-KIDS_FIRST  =   18.87 TB, 881 Files, 373 Participants   
-    ---Requires DbGaP Access
+DATA ACCESS:    ICR_pHGG_Data_Access_Committee, EGA DAC Application
+
+Chris Jones                 66.13 GB, 16 Samples, Illumina HiSeq 2000
+https://ega-archive.org/datasets/EGAD00001004116
+
+DATA ACCESS:    ICR_pHGG_Data_Access_Committee, EGA DAC Application
+
+_______
+
+
+KIDS_FIRST (CBTTC)  =   18.14 TB, 881 Files, 373 Participants   
+LOCAL MANIFEST FILE
+ACCESS FORM:
+https://redcap.chop.edu/surveys/?s=A7M873HMN8
+
+_______
+
+
+ICGC    =   EGA-archive,    212 GB, 42 Samples, Illumina HiSeq 2500
+https://ega-archive.org/datasets/EGAD00001001944
+
+DATA ACCESS:
+https://docs.icgc.org/portal/access/
+
