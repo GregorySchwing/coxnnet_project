@@ -1,0 +1,19 @@
+It appears that the first concern I must address is what level of precision I want to conduct the study in.  As a clinically oriented project, I am leaning towards gene expression by RNASeq.  This will however, eliminate the possibility of germ line variant calling.  This is not my specialty.  I should consult with Dr. Hicks on this area of the project.  
+
+RNASeq Dataset
+
+DZ: High, Low, and Diffuse Intrisic Pontine Glioma
+
+File:   (BAM, CNV, Somatic VCF, and gVCF)
+
+________________________________________
+
+St Jude =   1660 GB, 378 Files, 175 Subjects
+    ---Requires data access form
+
+HERBY   =   
+
+CBTTC   =   XXXX,   XXXXXX,     906 Subjects
+
+KIDS_FIRST  =   18.87 TB, 881 Files, 373 Participants   
+    ---Requires DbGaP Access
